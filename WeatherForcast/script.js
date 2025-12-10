@@ -1,5 +1,5 @@
 async function getWeather() {
-    const apiKey = "c634a4fdc313277981215e88bd0ed8f9";
+    const apiKey = "your key";
     let city = document.getElementById("city").value.trim();
 
     if (city === "") {
@@ -61,4 +61,5 @@ for (let i = 0; i < forecastData.list.length; i += 8) {
 }
 
 }
+
 
