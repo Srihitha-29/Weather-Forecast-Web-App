@@ -11,6 +11,13 @@ featuring a dynamic glassmorphism interface with temperature-based theme changes
 👉 **[View Live Website](https://srihitha-29.github.io/Weather-Forecast-Web-App/)**
 
 ---
+Current Weather
+<img width="1214" height="508" alt="weather png" src="https://github.com/user-attachments/assets/e0b88990-0ae9-4628-81b6-aa0dc22a7f0f" />
+
+5-Day Forecast
+<img width="1084" height="183" alt="forecast png" src="https://github.com/user-attachments/assets/217ff5ea-7483-4ab9-9759-f80f490ffeef" />
+
+
 
 ## ✨ Features
 
